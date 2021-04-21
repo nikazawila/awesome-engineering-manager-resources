@@ -9,3 +9,5 @@
 [Leaders Eat Last: Why Some Teams Pull Together and Others Don't](https://amzn.to/3sAO0X3) by Simon Sinek  
 
 
+### Talks:
+[What Engineering Managers Should Do (and Why We Don’t)](https://www.youtube.com/watch?v=Q_bJVokYLRI) by Lena Reinhard
