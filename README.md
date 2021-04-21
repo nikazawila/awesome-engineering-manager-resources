@@ -10,4 +10,5 @@
 
 
 ### Talks:
+[How Privilege Defines Performance](https://www.youtube.com/watch?v=Hzs_8e3Xhhc) by Tatiana Mac
 [What Engineering Managers Should Do (and Why We Don’t)](https://www.youtube.com/watch?v=Q_bJVokYLRI) by Lena Reinhard
