@@ -7,7 +7,8 @@
 [The Making of a Manager: What to Do When Everyone Looks to You](https://amzn.to/32vaIW8) by Julie Zhuo  
 [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://amzn.to/3tyR3QT) by Kim Scott  
 [Leaders Eat Last: Why Some Teams Pull Together and Others Don't](https://amzn.to/3sAO0X3) by Simon Sinek  
-[Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness](https://amzn.to/2QK8wY1) by Robert K. Greenleaf
+[Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness](https://amzn.to/2QK8wY1) by Robert K. Greenleaf  
+[Invisible Women: Exposing Data Bias in a World Designed for Men](https://amzn.to/3eMYspD) by Caroline Criado Perez  
 
 
 ### Talks:
