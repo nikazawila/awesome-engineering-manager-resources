@@ -1,4 +1,4 @@
-# Documenting resources on my path leading to Engineering Management
+# Highly subjective list of awesome resources for aspiring Engineering Managers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### Books:
 
