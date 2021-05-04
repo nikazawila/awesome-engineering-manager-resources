@@ -9,7 +9,7 @@
 [Leaders Eat Last: Why Some Teams Pull Together and Others Don't](https://amzn.to/3sAO0X3) by Simon Sinek  
 [Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness](https://amzn.to/2QK8wY1) by Robert K. Greenleaf  
 [Invisible Women: Exposing Data Bias in a World Designed for Men](https://amzn.to/3eMYspD) by Caroline Criado Perez  
-
+[Atomic habits: Tiny Changes, Remarkable Results](https://amzn.to/3thvCTw) by James Clear
 
 ### Talks:
 [How Privilege Defines Performance](https://www.youtube.com/watch?v=Hzs_8e3Xhhc) by Tatiana Mac  
