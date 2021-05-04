@@ -12,6 +12,7 @@
 [Atomic habits: Tiny Changes, Remarkable Results](https://amzn.to/3thvCTw) by James Clear
 
 ### Talks:
+[How to scale yourself as a first-time leader](https://www.youtube.com/watch?v=LKkohgxsZdI) by Poornima Vijayashanker  
 [How Privilege Defines Performance](https://www.youtube.com/watch?v=Hzs_8e3Xhhc) by Tatiana Mac  
 [What Engineering Managers Should Do (and Why We Don’t)](https://www.youtube.com/watch?v=Q_bJVokYLRI) by Lena Reinhard  
 [The danger of a single story](https://www.youtube.com/watch?v=D9Ihs241zeg) by Chimamanda Ngozi Adichie  
