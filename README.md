@@ -19,4 +19,5 @@
 [Why good leaders make you feel safe](https://www.youtube.com/watch?v=lmyZMtPVodo) by Simon Sinek  
 
 ### Articles:  
-[Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) by Sarah Drasner
+[Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) by Sarah Drasner  
+[The Nakazawa Management Starter Pack](https://cpojer.net/posts/the-nakazawa-management-starter-pack) by Christoph Nakazawa
