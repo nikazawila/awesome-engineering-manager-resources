@@ -22,4 +22,5 @@
 [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) by Sarah Drasner  
 [Your Team is Not “Them”](https://css-tricks.com/your-team-is-not-them/) by Sarah Drasner  
 [The Nakazawa Management Starter Pack](https://cpojer.net/posts/the-nakazawa-management-starter-pack) by Christoph Nakazawa  
-[People First Leadership](https://www.youtube.com/watch?v=GqKJ6SEyMBY) by Kate Wardin
+[People First Leadership](https://www.youtube.com/watch?v=GqKJ6SEyMBY) by Kate Wardin  
+[What Leaders Told Me](https://www.suzanbond.com/articles/what-leaders-told-me-about-their-experience-as-a-tech-exec) by Suzan Bond
