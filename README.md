@@ -9,7 +9,8 @@
 [Leaders Eat Last: Why Some Teams Pull Together and Others Don't](https://amzn.to/3sAO0X3) by Simon Sinek  
 [Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness](https://amzn.to/2QK8wY1) by Robert K. Greenleaf  
 [Invisible Women: Exposing Data Bias in a World Designed for Men](https://amzn.to/3eMYspD) by Caroline Criado Perez  
-[Atomic habits: Tiny Changes, Remarkable Results](https://amzn.to/3thvCTw) by James Clear
+[Atomic habits: Tiny Changes, Remarkable Results](https://amzn.to/3thvCTw) by James Clear  
+[Your Time to Thrive: End Burnout, Increase Well-being, and Unlock Your Full Potential with the New Science of Microsteps](https://amzn.to/3hm93ur) by Marina Khidekel
 
 ### Talks:
 [How to scale yourself as a first-time leader](https://www.youtube.com/watch?v=LKkohgxsZdI) by Poornima Vijayashanker  
