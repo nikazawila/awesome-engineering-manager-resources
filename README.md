@@ -12,7 +12,8 @@
 [Atomic habits: Tiny Changes, Remarkable Results](https://amzn.to/3thvCTw) by James Clear  
 [Your Time to Thrive: End Burnout, Increase Well-being, and Unlock Your Full Potential with the New Science of Microsteps](https://amzn.to/3hm93ur) by Marina Khidekel  
 [The Five Dysfunctions of a Team: A Leadership Fable](https://amzn.to/2Qpqnnp) by Patrick M. Lencioni  
-[The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism](https://amzn.to/3vp7pMH) by Olivia Fox Cabane
+[The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism](https://amzn.to/3vp7pMH) by Olivia Fox Cabane  
+[People Management: Everything you need to know about managing and leading people at work](https://amzn.to/3yN9ILF) by Chad Halvorson
 
 ### Talks:
 [How to scale yourself as a first-time leader](https://www.youtube.com/watch?v=LKkohgxsZdI) by Poornima Vijayashanker  
