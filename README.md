@@ -21,6 +21,7 @@
 [What Engineering Managers Should Do (and Why We Don’t)](https://www.youtube.com/watch?v=Q_bJVokYLRI) by Lena Reinhard  
 [The danger of a single story](https://www.youtube.com/watch?v=D9Ihs241zeg) by Chimamanda Ngozi Adichie  
 [Why good leaders make you feel safe](https://www.youtube.com/watch?v=lmyZMtPVodo) by Simon Sinek  
+[Get comfortable with being uncomfortable](https://youtu.be/QijH4UAqGD8) by Luvvie Ajayi Jones  
 
 ### Articles:  
 [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/) by Sarah Drasner  
