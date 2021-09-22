@@ -15,6 +15,7 @@
 [The Charisma Myth: How Anyone Can Master the Art and Science of Personal Magnetism](https://amzn.to/3vp7pMH) by Olivia Fox Cabane  
 [People Management: Everything you need to know about managing and leading people at work](https://amzn.to/3yN9ILF) by Chad Halvorson
 [Resilient Management](https://abookapart.com/products/resilient-management) by Lara Hogan  
+[The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612) by Michael Watkins   
 
 ### Talks:
 [How to scale yourself as a first-time leader](https://www.youtube.com/watch?v=LKkohgxsZdI) by Poornima Vijayashanker  
