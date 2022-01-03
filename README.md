@@ -33,5 +33,5 @@
 [Your Team is Not “Them”](https://css-tricks.com/your-team-is-not-them/) by Sarah Drasner  
 [The Nakazawa Management Starter Pack](https://cpojer.net/posts/the-nakazawa-management-starter-pack) by Christoph Nakazawa  
 [People First Leadership](https://www.youtube.com/watch?v=GqKJ6SEyMBY) by Kate Wardin  
-[What Leaders Told Me](https://www.suzanbond.com/articles/what-leaders-told-me-about-their-experience-as-a-tech-exec) by Suzan Bond
+[What Leaders Told Me](https://www.suzanbond.com/articles/what-leaders-told-me-about-their-experience-as-a-tech-exec) by Suzan Bond  
 [When is Someone's Ready to Manage Managers](https://skamille.medium.com/when-is-someone-ready-to-manage-managers-4f365b926435) by Camille Fournier
