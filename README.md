@@ -19,7 +19,7 @@
 [Deep Work](https://www.amazon.de/dp/0349411905/ref=cm_sw_em_r_mt_dp_X91HJ7PJ1VCHGCFBKJGD?_encoding=UTF8&psc=1) by Cal Newport  
 [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.de/-/en/Will-Larson/dp/1732265186) by Will Larson  
 [The Wake Up](https://www.amazon.de/-/en/Michelle-MiJung-Kim/dp/0306847205) by Michelle Mijung Kim  
-[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts](https://www.amazon.de/gp/product/1785042149/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) by Brene Brown 
+[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts](https://www.amazon.de/gp/product/1785042149/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) by Brene Brown  
 [Engineering Management for the Rest of Us](https://www.engmanagement.dev/) by Sarah Drasner 
 
 ### Talks:
