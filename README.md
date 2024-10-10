@@ -20,7 +20,8 @@
 [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.de/-/en/Will-Larson/dp/1732265186) by Will Larson  
 [The Wake Up](https://www.amazon.de/-/en/Michelle-MiJung-Kim/dp/0306847205) by Michelle Mijung Kim  
 [Dare to Lead: Brave Work. Tough Conversations. Whole Hearts](https://www.amazon.de/gp/product/1785042149/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) by Brene Brown  
-[Engineering Management for the Rest of Us](https://www.engmanagement.dev/) by Sarah Drasner 
+[Engineering Management for the Rest of Us](https://www.engmanagement.dev/) by Sarah Drasner  
+[Leading Without Authority](https://www.penguinrandomhouse.com/books/576815/leading-without-authority-by-keith-ferrazzi-with-noel-weyrich/) by Keith Ferrazzi and Noel Weyrich  
 
 ### Talks:
 [How to scale yourself as a first-time leader](https://www.youtube.com/watch?v=LKkohgxsZdI) by Poornima Vijayashanker  
